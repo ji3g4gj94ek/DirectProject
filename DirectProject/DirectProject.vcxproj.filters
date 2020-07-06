@@ -30,6 +30,9 @@
     <ClInclude Include="basewin.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
+    <ClInclude Include="scene.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DirectProject.cpp">
